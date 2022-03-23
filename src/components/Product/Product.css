@@ -45,8 +45,3 @@ margin-right: 5px;
 .btn-cart:hover{
     background-color: orange;
 }
-.order{
-    text-align: center;
-    background: rgba(255, 153, 0, 0.3);
-    color: black;
-}
